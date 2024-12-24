@@ -27,7 +27,7 @@ For the PlanetScope imagery dated July 8, 2024, you can download it from the fol
 1. RAW data (harmonized with Sentinel-2): https://1drv.ms/i/s!AhfNAWExLGYtr9gbfNRBhZ-ir4eP4g?e=efPRgm
 2. Masked shallow water only: https://1drv.ms/i/s!AhfNAWExLGYtr9hR8xpdtQSUH_seGA?e=NWheNZ
 
-![Story Preview_export fix](https://github.com/user-attachments/assets/a4ea867c-eb3f-4df6-b242-48178766c047)
+#### Connect with me:
+[LinkedIn](https://www.linkedin.com/in/mwahyur)
 
-Connect with me:
-LinkedIn
+![Story Preview_export fix](https://github.com/user-attachments/assets/a4ea867c-eb3f-4df6-b242-48178766c047)
