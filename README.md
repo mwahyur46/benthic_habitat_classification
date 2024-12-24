@@ -21,10 +21,13 @@ The main steps for benthic habitat classification are organized into three separ
 3. **Apply the Model to Satellite Imagery**  
    - Use the trained model to predict benthic habitat classes across the entire satellite image.
 
-### Download Data
+## Download Data
 
 For the PlanetScope imagery dated July 8, 2024, you can download it from the following link. This is due to the file size limitations that GitHub can handle, save these files into the **Data** folder.
 1. RAW data (harmonized with Sentinel-2): https://1drv.ms/i/s!AhfNAWExLGYtr9gbfNRBhZ-ir4eP4g?e=efPRgm
 2. Masked shallow water only: https://1drv.ms/i/s!AhfNAWExLGYtr9hR8xpdtQSUH_seGA?e=NWheNZ
 
 ![Story Preview_export fix](https://github.com/user-attachments/assets/a4ea867c-eb3f-4df6-b242-48178766c047)
+
+Connect with me:
+LinkedIn
