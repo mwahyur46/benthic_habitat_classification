@@ -12,7 +12,7 @@ For simplicity, this script assumes the satellite imagery is in optimal conditio
 
 The main steps for benthic habitat classification are organized into three separate `.ipynb` files:
 
-1. **Prepare Training and Testing Sets**  
+1. **Prepare Training and Testing Dataset**  
    - Extract pixel values and labels from sample data to create datasets for training and testing the model.
 
 2. **Build a Machine Learning Model**  
