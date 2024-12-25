@@ -28,6 +28,6 @@ For the PlanetScope imagery dated July 8, 2024, you can download it from the fol
 2. Masked shallow water only: https://1drv.ms/i/s!AhfNAWExLGYtr9hR8xpdtQSUH_seGA?e=NWheNZ
 
 #### Connect with me:
-[LinkedIn](https://www.linkedin.com/in/mwahyur) [Medium](wahyu-ramadhan.medium.com)
+[LinkedIn](https://www.linkedin.com/in/mwahyur) [Medium](https://wahyu-ramadhan.medium.com)
 
 ![Story Preview_export fix](https://github.com/user-attachments/assets/a4ea867c-eb3f-4df6-b242-48178766c047)
