@@ -1,3 +1,5 @@
+![Thumbnail Medium_English_2](https://github.com/user-attachments/assets/5b9f5481-5c07-4b96-86ee-af14e98f20bc)
+
 # Benthic Habitat Classification with Python
 
 This workflow focuses on classifying benthic habitats, which is similar to land-use and land-cover (LULC) classification on terrestrial areas, but here the objects of interest are in shallow water environments. In certain scenarios, it is advisable to apply specific preprocessing steps to the satellite imagery, such as:
@@ -29,5 +31,3 @@ For the PlanetScope imagery dated July 8, 2024, you can download it from the fol
 
 #### Connect with me:
 [LinkedIn](https://www.linkedin.com/in/mwahyur) [Medium](https://wahyu-ramadhan.medium.com)
-
-![Story Preview_export fix](https://github.com/user-attachments/assets/a4ea867c-eb3f-4df6-b242-48178766c047)
