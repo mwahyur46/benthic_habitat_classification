@@ -29,7 +29,6 @@ The classification process is organized into three main stages, each represented
 # Benthic Habitat Classes
 The classification of benthic habitats refers to data from the [Allen Coral Atlas (ACA) - Benthic Habitat v2.0](https://developers.google.com/earth-engine/datasets/catalog/ACA_reef_habitat_v2_0#bands), which is also used as the label for the sample points dataset. Thus, the `id_sample` field in the file is aligned with the values from the ACA data, where:  
 
-- 0: Unmapped  (not included)
 - 11: Sand  
 - 12: Rubble  
 - 13: Rock  
