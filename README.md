@@ -16,7 +16,7 @@ The main steps for benthic habitat classification are organized into three separ
    - Extract pixel values and labels from sample data to create datasets for training and testing the model.
 
 2. **Build a Machine Learning Model**  
-   - Train a model to classify benthic habitat classes based on the training dataset.
+   - Build a model to classify benthic habitat classes based on the training dataset using the Extreme Gradient Boosting (XGBoost) algorithm.
 
 3. **Apply the Model to Satellite Imagery**  
    - Use the trained model to predict benthic habitat classes across the entire satellite image.
