@@ -24,7 +24,7 @@ The main steps for benthic habitat classification are organized into three separ
    - Use the trained model to predict benthic habitat classes across the entire satellite image.
   
 # Benthic Classes
-The classification of benthic habitats refers to data from the Allen Coral Atlas (ACA) - Benthic Habitat v2.0, which is also used as the label for the sample points dataset. Thus, the `id_sample` field in the file is aligned with the values from the ACA data, where:  
+The classification of benthic habitats refers to data from the [Allen Coral Atlas (ACA) - Benthic Habitat v2.0](https://developers.google.com/earth-engine/datasets/catalog/ACA_reef_habitat_v2_0#bands), which is also used as the label for the sample points dataset. Thus, the `id_sample` field in the file is aligned with the values from the ACA data, where:  
 
 - 0: Unmapped  (not included)
 - 11: Sand  
