@@ -2,26 +2,29 @@
 
 # Benthic Habitat Classification with Python
 
-This workflow focuses on classifying benthic habitats, which is similar to land-use and land-cover (LULC) classification on terrestrial areas, but here the objects of interest are in shallow water environments. In certain scenarios, it is advisable to apply specific preprocessing steps to the satellite imagery, such as:
+This pipeline focuses on classifying benthic habitats, analogous to land-use and land-cover (LULC) classification in terrestrial environments. However, the objects of interest here are located in shallow water ecosystems. Depending on the dataset's quality and the study area's characteristics, specific preprocessing steps for satellite imagery may be required, such as:
 
 - **Atmospheric correction**  
-- **Water column correction** (useful if the geomorphology is not relatively flat or reef flats)  
-- **Sunglint correction** (to handle sunlight reflections on the water surface)  
+- **Water column correction** (recommended if the geomorphology varies significantly or includes reef slopes)  
+- **Sunglint correction** (to mitigate sunlight reflections on the water surface)  
 
-For simplicity, this script assumes the satellite imagery is in optimal condition and does not require these corrections.
+For simplicity, this repository assumes the satellite imagery is already in optimal condition, and no additional corrections are applied.
 
-## Workflow Overview
+## Pipeline Overview
 
-The main steps for benthic habitat classification are organized into three separate `.ipynb` files:
+The classification process is organized into three main stages, each represented by a separate `.ipynb` file:
 
-1. **Prepare Training and Testing Dataset**  
-   - Extract pixel values and labels from sample data to create datasets for training and testing the model.
+1. **Preparing Training and Testing Datasets**  
+   - Extract pixel values and corresponding labels from sample points.  
+   - Create balanced datasets for training and testing the model.
 
-2. **Build a Machine Learning Model**  
-   - Build a model to classify benthic habitat classes based on the training dataset using the Extreme Gradient Boosting (XGBoost) algorithm.
+2. **Developing the Machine Learning Model**  
+   - Train a classification model using the Extreme Gradient Boosting (XGBoost) algorithm.  
+   - Perform hyperparameter tuning to optimize model performance.  
 
-3. **Apply the Model to Satellite Imagery**  
-   - Use the trained model to predict benthic habitat classes across the entire satellite image.
+3. **Applying the Model to Satellite Imagery**  
+   - Use the trained model to classify benthic habitat types across the entire satellite image.  
+   - Generate output maps for visual interpretation and analysis.  
   
 # Benthic Habitat Classes
 The classification of benthic habitats refers to data from the [Allen Coral Atlas (ACA) - Benthic Habitat v2.0](https://developers.google.com/earth-engine/datasets/catalog/ACA_reef_habitat_v2_0#bands), which is also used as the label for the sample points dataset. Thus, the `id_sample` field in the file is aligned with the values from the ACA data, where:  
