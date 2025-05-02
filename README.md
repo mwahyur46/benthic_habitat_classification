@@ -39,7 +39,7 @@ The classification of benthic habitats refers to data from the [Allen Coral Atla
 ## Download Data
 
 For the PlanetScope imagery dated July 8, 2024, you can download it from the following link. This is due to the file size limitations that GitHub can handle, save these files into the **Data** folder.
-1. [Raw Data (harmonized with Sentinel-2](https://1drv.ms/i/s!AhfNAWExLGYtr9gbfNRBhZ-ir4eP4g?e=efPRgm)
+1. [Raw Data (harmonized with Sentinel-2)](https://1drv.ms/i/s!AhfNAWExLGYtr9gbfNRBhZ-ir4eP4g?e=efPRgm)
 2. [Masked shallow water only](https://1drv.ms/i/s!AhfNAWExLGYtr9hR8xpdtQSUH_seGA?e=NWheNZ)
 
 #### Connect with me:
